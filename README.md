@@ -1,3 +1,3 @@
 # rsschool-cv
 
-https://pustoym.github.io/rsschool-cv/cv
+https://pustoym.github.github.io/rsschool-cv/
