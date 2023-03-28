@@ -2,10 +2,10 @@
 
 ## Contact info
 
-Location: Pisek, Czechia
-E-mail: pustovalov.mv@ya.ru
-Telegram: [@pustoy_m](https://t.me/pustoy_m)
-[LinkedIn](https://www.linkedin.com/in/pustoi/)
+- Location: Pisek, Czechia
+- E-mail: pustovalov.mv@ya.ru
+- Telegram: [@pustoy_m](https://t.me/pustoy_m)
+- [LinkedIn](https://www.linkedin.com/in/pustoi/)
 
 ## About me
 
