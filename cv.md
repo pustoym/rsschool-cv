@@ -21,8 +21,8 @@ I'm taking a free course from the community [The Rolling Scopes](http://rollings
 
 ## Hard skills & instruments
 
-- HTML-first layout for LAMP, with templating: Pug, Twig, etc;
-- CSS, SASS (prefer SCSS syntax), PostCSS;
+- **Layout:** HTML-first layout for LAMP, with templating Pug, Twig, etc;
+- **Styles:** CSS3, SASS (prefer SCSS syntax), PostCSS;
 - **Methodology:** BEM, a11y principles, Progressive enhancement, Feature detection
 - **JavaScript:** ES6 syntax, React, Vue.js;
 - **Automatization:** Gulp, Webpack;
@@ -50,3 +50,28 @@ const containsDuplicate = (nums, numsSet = new Set()) => {
 ```
 
 See more in [GitHub profile](https://github.com/pustoym).
+
+## Experience
+
+- 2022 - 2023 — Team leader of the IT department in «Mansio Group»
+- 2021 - 2022 — Lead Technologist in Marketing Team «Panda Profit»
+- 2017 - 2020 — Webmaster in «Vision Studio»
+- 2014 - 2015 — Freelance HTML developer
+
+## Education
+
+- 2012 - 2014 — Institute for Humanitarian Education and Information Technologies.
+  Management Information Systems, General. Unfinished.
+
+### Courses
+
+- HTML Academy:
+  - 2019 — JavaScript. Professional development of web interfaces
+  - 2017 — HTML and CSS. Responsive layout and automation
+  - 2016 — HTML и CSS: Professional website layout
+
+## Languages
+
+- Russian — native;
+- English — intermediate;
+- Czech — basic.
