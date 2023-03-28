@@ -6,7 +6,6 @@ Location: Pisek, Czechia
 E-mail: pustovalov.mv@ya.ru
 Telegram: [@pustoy_m](https://t.me/pustoy_m)
 [LinkedIn](https://www.linkedin.com/in/pustoi/)
-[GitHub](https://github.com/pustoym)
 
 ## About me
 
@@ -30,3 +29,24 @@ I'm taking a free course from the community [The Rolling Scopes](http://rollings
 - **Version control:** Git, GitHub, Bitbucker;
 - **Project managing:** Notion, Wrike, Basecamp, Jira, Trello, Bitrix24;
 - **Design:** Figma, AdobeXD, Zeplin, Avocode, Photoshop, Illustrator.
+
+## Code examples
+
+```javascript
+/**
+ * https://leetcode.com/problems/contains-duplicate/
+ * @param {number[]} nums
+ * @return {boolean}
+ */
+const containsDuplicate = (nums, numsSet = new Set()) => {
+  for (const num of nums) {
+    if (numsSet.has(num)) return true;
+
+    numsSet.add(num);
+  }
+
+  return false;
+};
+```
+
+See more in [GitHub profile](https://github.com/pustoym).
